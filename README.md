@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sonalmewada
+- 👀 I’m interested in html/css development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me -> sonumewada40@gmail.com
